@@ -1,5 +1,7 @@
 ID3 ALGORITHM IMPLEMENTATION
 
+This program implements the ID3 Algorithm for constructing a Decision Tree in python without any inbuilt packages.
+
 Language used : Python
 
 Steps to run the code:
