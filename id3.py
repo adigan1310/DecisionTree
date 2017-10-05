@@ -3,7 +3,7 @@ import csv
 import math
 import random
 
-#authors: Adithya Ganapathy and Nisshanthni Divakaran
+#authors: Adithya Ganapathy
 
 class Dtree(object):
     def __init__(self):
